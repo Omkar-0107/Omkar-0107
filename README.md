@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi there! I'm **Omkar Kodulkar** — a passionate tech enthusiast 🚀 always eager to learn, build, and collaborate!
 
-- 🔭 Currently working on real-world coding projects  
+- 🔭 Currently working on **real-world coding projects**  
 - 👯 Open to collaborate on **tech projects** and **open-source work**  
 - 🤝 Looking for help with **internships** and **hands-on experience**  
 - 🌱 Learning **DSA**, **Full-Stack Web Dev**, and **Cloud basics**  
