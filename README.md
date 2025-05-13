@@ -55,7 +55,7 @@ Hi there! I'm **Omkar Kodulkar** — a passionate tech enthusiast 🚀 always ea
 ## 📊 GitHub Stats:
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=Omkar-0107&theme=dark&hide_border=false&include_all_commits=true&count_private=false)  
+<!-- ![](https://github-readme-stats.vercel.app/api?username=Omkar-0107&theme=dark&hide_border=false&include_all_commits=true&count_private=true) --> 
 ![](https://nirzak-streak-stats.vercel.app/?user=Omkar-0107&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar-0107&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
